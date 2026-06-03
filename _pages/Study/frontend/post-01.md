@@ -1,18 +1,17 @@
 ---
-title: "Example Post: no thumbnail image"
-date: "2023-12-01"
+title: "HTML로 간단한 페이지 만들어보기"
+date: "2026-06-04"
 ---
 
-# Follow the guidance
+# HTML의 구조
 ---
 
-**Fill the image path to the 'thumbnail' attribute, if you want a main image to be displayed on the post header image.**
 
 ```
 ---
 title: "Example Post: thumbnail exists"
 date: "2023-12-02"
-thumbnail: "/assets/img/thumbnail/bricks.webp"
+thumbnail: "/assets/img/thumbnail/tosspage.png"
 ---
 ```
 
