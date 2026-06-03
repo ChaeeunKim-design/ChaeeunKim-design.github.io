@@ -5,16 +5,16 @@ thumbnail: "/assets/img/thumbnail/tosspage.png"
 ---
 
 # HTML의 구조
----
+<!-- --- -->
 
 
-```
+<!-- ```
 ---
 title: "Example Post: thumbnail exists"
 date: "2023-12-02"
 thumbnail: "/assets/img/thumbnail/tosspage.png"
 ---
-```
+``` -->
 
 The rest content is just meaningless dummy text.
 
